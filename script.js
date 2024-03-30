@@ -1,3 +1,16 @@
+// var typed = new typed(".text", {
+//     strings: ["web developer", "python developer", "backend developer"],
+//     typespeed:100,
+//     backspeed:100,
+//     backDelay: 1000,
+//     loop: true
+
+// }) 
+
+
+
+
+
 let menuIcon = document.querySelector('#menu-icon');
 let navbar = document.querySelector('.navbar');
 
